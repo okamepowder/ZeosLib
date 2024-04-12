@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/bash
 
 script_dir=$(dirname "$0")
 

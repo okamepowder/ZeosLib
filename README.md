@@ -47,6 +47,9 @@ gitでsvnブランチを追うのは困難なので強制上書き方式を採�
 
 NASなどのcronを利用して、ローカルサーバーなどのgiteaなどに自動pushすると使いやすくなるかと思います。
 
+Windowsタスクスケジューラーに登録する場合は、sample-task.vbs,sample-update.bat,sample-update.shをコピーして名称変更します。
+環境に合わせて内容を修正します。 サンプルは 更新確認 と origin に向けて git pushします
+
 ## ブランチ名は簡素化しています
 
 mainブランチ ： svn/trunk
